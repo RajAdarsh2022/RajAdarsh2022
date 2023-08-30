@@ -1,60 +1,65 @@
-# Hi there! 👋 I'm Adarsh!. Welcome to my GitHub profile!
+# Hi there! 👋 I'm Adarsh. Welcome to my GitHub profile!
 
- I'm currently a undergraduate passionate about problem solving using tech. I enjoy creating [Your Projects Description] and exploring new technologies.
+ I'm currently an undergraduate passionate about problem solving using tech. I enjoy exploring new technologies.
 
 ## About Me
 
 - 🌱 I'm currently learning Full Stack Development, Machine Learning.
-- 💬 Ask me about Development, ML, F1 and Comics!.
-- 📫 How to reach me: adarsh.ramesh.raj@gmail.com | https://www.linkedin.com/in/adarshrraj/
+- 💬 Ask me about Development, ML, F1 and Comics!
+
   
-
-
-
 ## Skills
 
 ### Programming Languages
-- ![C++](https://img.shields.io/badge/-C++-purple)
-- ![Python](https://img.shields.io/badge/-Python-blue)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-
+![C++](https://img.shields.io/badge/-C++-purple)
+![Python](https://img.shields.io/badge/-Python-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
 ### Web Development
-- ![HTML5](https://img.shields.io/badge/-HTML5-red)
-- ![CSS3](https://img.shields.io/badge/-CSS3-blue)
-- ![Bootstrap](https://img.shields.io/badge/-bootstrap-violet)
-- ![React](https://img.shields.io/badge/-React-blue)
-- ![Node.js](https://img.shields.io/badge/-Node.js-green)
-- ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
+![HTML5](https://img.shields.io/badge/-HTML5-red)
+![CSS3](https://img.shields.io/badge/-CSS3-blue)
+![React](https://img.shields.io/badge/-React-blue)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
 
-### Data Analysis and Machine Learning
--
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)
-- ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-blue)
+### Data Analytics and Machine Learning
 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-blue)
+![numpy](https://img.shields.io/badge/-numpy-blue)
+![pandas](https://img.shields.io/badge/-pandas-brightgreen)
 
 ### Databases
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
-- ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
+![MySQL](https://img.shields.io/badge/-MySQL-blue)
 
 ### Version Control
-- ![Git](https://img.shields.io/badge/-Git-red)
-- ![GitHub](https://img.shields.io/badge/-GitHub-black)
+![Git](https://img.shields.io/badge/-Git-red)
+![GitHub](https://img.shields.io/badge/-GitHub-black)
 
-### Other
-- ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-lightgrey)
-- ![Data Structures](https://img.shields.io/badge/-Data%20Structures-orange)
-- ![Algorithms](https://img.shields.io/badge/-Algorithms-yellow)
+### Tools and other skills
 
-- 
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-orange)
+![Algorithms](https://img.shields.io/badge/-Algorithms-yellow)
+![Vs code](https://img.shields.io/badge/-Vs%20code-blue)
+![jupyter](https://img.shields.io/badge/-jupyter-orange)
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## Let's Connect
 
-Feel free to connect with me on social media or check out my personal website for more information about my work!
+Feel free to connect with me on LinkedIn or Email!
+
+<div>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yourusername/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/>
+  </a>
+</div>
+
+
 
 
 
