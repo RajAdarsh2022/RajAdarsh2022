@@ -5,7 +5,7 @@ I'm currently an undergraduate passionate about problem solving using tech. I en
 ## About Me
 
 - 🌱 I'm currently learning Full Stack Development, Machine Learning.
-- 💬 Ask me about Development, ML, F1 and Comics!
+- 💬 Ask me about Programming, Development and ML!
 
 ## Skills
 
