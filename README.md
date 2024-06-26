@@ -1,4 +1,21 @@
-# Hi there! 👋 I'm Adarsh. Welcome to my GitHub profile!
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/adarshrraj/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:adarsh.ramesh.raj@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=RajAdarsh2022&style=flat-square&color=blue" alt=""/>
+  <h1>
+    Hi there!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
 
 I'm currently an undergraduate passionate about problem solving using tech. I enjoy exploring new technologies.
 
@@ -32,7 +49,7 @@ I'm currently an undergraduate passionate about problem solving using tech. I en
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=RajAdarsh2022&theme=dark)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajAdarsh2022&hide=jupyter%20notebook&layout=pie" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajAdarsh2022&hide=jupyter%20notebook&layout=pie&theme=vision-friendly-dark" />
   
 ## Let's Connect
 
