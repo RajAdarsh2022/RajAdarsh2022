@@ -7,11 +7,25 @@ I'm currently an undergraduate passionate about problem solving using tech. I en
 - 🌱 I'm currently learning Full Stack Development, Machine Learning.
 - 💬 Ask me about Programming, Development and ML!
 
-## Skills
+---
 
-| Skills Content                                               | GIF and Languages |
-| ------------------------------------------------------------ | ----------------- |
-| <h3>Skills</h3><br>### Programming Languages<br>![C++](https://img.shields.io/badge/-C++-purple) ![Python](https://img.shields.io/badge/-Python-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)<br><br>### Web Development<br>![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![React](https://img.shields.io/badge/-React-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)<br><br>### Data Analytics and Machine Learning<br>![numpy](https://img.shields.io/badge/-numpy-blue) ![pandas](https://img.shields.io/badge/-pandas-brightgreen) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-blue)<br><br>### Databases<br>![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen) ![MySQL](https://img.shields.io/badge/-MySQL-blue)<br><br>### Version Control<br>![Git](https://img.shields.io/badge/-Git-red) ![GitHub](https://img.shields.io/badge/-GitHub-black)<br><br>### Tools and other skills<br>![Data Structures](https://img.shields.io/badge/-Data%20Structures-orange) ![Algorithms](https://img.shields.io/badge/-Algorithms-yellow) ![Vs code](https://img.shields.io/badge/-Vs%20code-blue) ![jupyter](https://img.shields.io/badge/-jupyter-orange) | <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programming GIF" width="200"/><br><h3>Languages Used</h3><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajAdarsh2022&langs_count=6&theme=radical" alt="Languages Used"/> |
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
   
 ## Let's Connect
 
